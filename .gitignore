@@ -1,0 +1,23 @@
+# ignore venv
+app/
+# ignore glove folder
+glove.6B/
+
+*.DS_Store
+
+.vscode
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# ignore saving files
+scripts/Amazon
+scripts/AmazonHC
+scripts/Combine
+scripts/FlipKart
+scripts/Walmart
+scripts/DataDistribution
+scripts/NewScripts/Amazon
+scripts/NewScripts/Combine
+scripts/NewScripts/Flipkart
+scripts/NewScripts/Walmart
